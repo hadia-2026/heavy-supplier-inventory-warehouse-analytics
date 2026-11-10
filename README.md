@@ -148,9 +148,15 @@ The project includes multiple relational datasets covering:
 
 
 
-\## Current Status
+\## Current Progress
 
 
 
-\*\*Week 1 — Project Setup and Data Understanding\*\*
+\- Week 1: Data Understanding \& Profiling — Completed
+
+\- Week 2: Data Cleaning \& Validation — Completed
+
+\- Week 3: Data Integration \& Feature Engineering — Completed
+
+\- Week 4: Product Performance Analysis — Next
 
