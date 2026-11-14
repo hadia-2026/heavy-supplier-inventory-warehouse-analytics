@@ -158,5 +158,7 @@ The project includes multiple relational datasets covering:
 
 \- Week 3: Data Integration \& Feature Engineering — Completed
 
-\- Week 4: Product Performance Analysis — Next
+\- Week 4: Product Performance Analysis — Completed
+
+\- Week 5: Inventory Analysis — Next
 

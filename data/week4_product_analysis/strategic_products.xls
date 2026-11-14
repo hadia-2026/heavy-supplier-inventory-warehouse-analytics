@@ -1,0 +1,31 @@
+product_id,product_name,abc_class,movement_class,profitability_class,demand_stability,priority_group,total_revenue,total_gross_profit,gross_margin_percent
+P015,Engine Block EB-600,A,Slow Moving,Low Margin,Stable Demand,High Value,4856985000,959152500,19.747899159663866
+P014,Transmission Assembly TA-800,A,Medium Moving,Low Margin,Moderate Demand,High Value,3387929000,608610000,17.964071856287426
+P021,Boom Cylinder BC-400,A,Medium Moving,Medium Margin,Variable Demand,High Value,1934116800,443758400,22.943722943722943
+P019,Swing Motor SWM-350,A,Medium Moving,Low Margin,Variable Demand,High Value,1653411400,357269800,21.608040201005025
+P004,Track Chain TC-45,A,Slow Moving,Low Margin,Moderate Demand,High Value,1627461800,298504300,18.341708542713565
+P010,Turbocharger TB-900,A,Fast Moving,Low Margin,Stable Demand,Critical Priority,1475990800,253752000,17.191977077363894
+P011,Hydraulic Cylinder HC-200,A,Fast Moving,Low Margin,Stable Demand,Critical Priority,1161766800,256767300,22.10144927536232
+P001,Hydraulic Pump HP-300,A,Medium Moving,Low Margin,Stable Demand,High Value,1011948000,229237200,22.653061224489797
+P030,Fuel Pump FP-350,A,Medium Moving,Medium Margin,Variable Demand,High Value,910930500,228772500,25.11415525114155
+P022,Control Valve CV-75,B,Medium Moving,Medium Margin,Moderate Demand,Medium Priority,697919300,169317700,24.2603550295858
+P009,Starter Motor SM-700,B,Slow Moving,Medium Margin,Moderate Demand,Medium Priority,604150300,139887150,23.154362416107382
+P023,Idler Wheel IW-55,B,Slow Moving,Medium Margin,Moderate Demand,Medium Priority,521574200,151035000,28.957528957528954
+P006,Alternator ALT-500,B,Fast Moving,Low Margin,Moderate Demand,High Movement,468641600,106699650,22.767857142857142
+P018,Wheel Rim WR-24,B,Medium Moving,Medium Margin,Moderate Demand,Medium Priority,460497600,126331200,27.43362831858407
+P016,Radiator RD-250,B,Fast Moving,Medium Margin,Variable Demand,High Movement,426054000,100248000,23.52941176470588
+P024,Track Roller TR-60,B,Slow Moving,Medium Margin,Moderate Demand,Medium Priority,406705800,114509400,28.155339805825243
+P005,Fuel Injector FI-220,C,Slow Moving,Medium Margin,Variable Demand,Standard Priority,342056000,85008000,24.85207100591716
+P025,Cabin Glass CG-20,C,Medium Moving,Medium Margin,Variable Demand,Standard Priority,322564350,92454750,28.662420382165603
+P029,Pressure Sensor PS-90,C,Fast Moving,Medium Margin,Stable Demand,High Movement,168672900,51242400,30.37974683544304
+P012,Brake Pad BP-40,C,Fast Moving,Medium Margin,Moderate Demand,High Movement,101795050,27006850,26.53061224489796
+P028,Light Assembly LA-18,C,Medium Moving,High Margin,Moderate Demand,Standard Priority,92907000,33033600,35.55555555555556
+P007,Hydraulic Hose HH-60,C,Fast Moving,Medium Margin,Stable Demand,High Movement,61126200,19813320,32.41379310344827
+P013,Seal Kit SK-15,C,Slow Moving,High Margin,Variable Demand,Standard Priority,57894150,19963500,34.48275862068966
+P003,Air Filter AF-120,C,Fast Moving,Medium Margin,Moderate Demand,High Movement,52140000,17936160,34.4
+P020,Pivot Pin PP-12,C,Medium Moving,High Margin,Stable Demand,Standard Priority,47052250,16366000,34.78260869565217
+P002,Engine Oil Filter OF-90,C,Medium Moving,High Margin,Moderate Demand,Standard Priority,29460240,11047590,37.5
+P008,Bucket Tooth BT-10,C,Medium Moving,High Margin,Moderate Demand,Standard Priority,23814220,9854160,41.37931034482759
+P017,Fan Belt FB-30,C,Medium Moving,High Margin,Moderate Demand,Standard Priority,21278400,8184000,38.46153846153847
+P027,O-Ring Set OR-50,C,Medium Moving,High Margin,Stable Demand,Standard Priority,19617600,8991400,45.83333333333333
+P026,Grease Cartridge GC-5,C,Slow Moving,High Margin,Variable Demand,Standard Priority,12526170,5252910,41.935483870967744
