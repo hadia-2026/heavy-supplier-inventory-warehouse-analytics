@@ -1,0 +1,8 @@
+product_id,product_name,affected_branches,stagnation_cases,inventory_value_at_risk
+P014,Transmission Assembly TA-800,4,4,30278096000
+P004,Track Chain TC-45,2,2,6823407500
+P018,Wheel Rim WR-24,2,2,1721385000
+P024,Track Roller TR-60,2,2,1572892200
+P013,Seal Kit SK-15,2,2,203205950
+P026,Grease Cartridge GC-5,2,2,37596240
+P023,Idler Wheel IW-55,1,1,973341600

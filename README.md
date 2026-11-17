@@ -160,5 +160,7 @@ The project includes multiple relational datasets covering:
 
 \- Week 4: Product Performance Analysis — Completed
 
-\- Week 5: Inventory Analysis — Next
+\- Week 5: Inventory Analytics — Completed
+
+\- Week 6: Warehouse Analytics — Next
 

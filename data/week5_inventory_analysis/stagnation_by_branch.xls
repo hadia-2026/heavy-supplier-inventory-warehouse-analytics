@@ -1,0 +1,7 @@
+branch_id,branch_name,stagnation_cases,affected_products,inventory_value_at_risk
+KOL001,Kolkata East Depot,4,4,11729243350
+DEL001,Delhi Central,3,3,7747244540
+HYD001,Hyderabad Logistics,3,3,9353204300
+PUN001,Pune Distribution,3,3,8603982200
+CHN001,Chennai South Hub,1,1,929207600
+AHM001,Ahmedabad West Hub,1,1,3247042500
