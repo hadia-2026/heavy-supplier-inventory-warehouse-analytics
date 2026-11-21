@@ -162,5 +162,7 @@ The project includes multiple relational datasets covering:
 
 \- Week 5: Inventory Analytics — Completed
 
-\- Week 6: Warehouse Analytics — Next
+\- Week 6: Warehouse Analytics — Completed
+
+\- Week 7: Supplier Reliability \& Risk — Next
 

@@ -1,0 +1,7 @@
+branch_id,branch_name,warehouse_type,total_sales_value,sales_per_sqft,movement_volume_per_sqft,movement_events_per_employee,units_sold_per_employee,operating_cost_ratio,stagnation_rate_percent,bottleneck_count,bottleneck_status,bottleneck_reasons,strategic_misalignment_cases
+DEL001,Delhi Central,Central,3865954470,85473.23612646473,80.32717223082025,412.6847826086956,2225.3695652173915,0.6091818548240746,10.0,4,High Bottleneck Risk,"Low Sales Density, Low Throughput Density, High Operating Cost, High Stagnation",1
+PUN001,Pune Distribution,Regional,3741098180,96544.46916129033,92.70126451612903,510.14864864864865,2726.337837837838,0.6046770195392243,10.0,1,Watch,High Stagnation,1
+CHN001,Chennai South Hub,Regional,5192125100,123946.64836476486,88.42487467175937,543.5679012345679,3462.296296296296,0.5996348335515284,3.3333333333333335,1,Watch,Low Throughput Density,0
+HYD001,Hyderabad Logistics,Branch,3452672510,95351.35349351008,98.31217895608948,636.8421052631579,3318.6491228070176,0.6082280000838046,10.0,2,Moderate Bottleneck Risk,"Low Sales Density, High Stagnation",1
+KOL001,Kolkata East Depot,Branch,4787656160,160229.45649263723,118.82178714859438,842.2857142857143,5226.428571428572,0.60212037571206,13.333333333333334,1,Watch,High Stagnation,2
+AHM001,Ahmedabad West Hub,Service Hub,4407886140,129187.7532239156,104.04009378663541,633.5079365079365,3751.5396825396824,0.6217093000687023,3.3333333333333335,1,Watch,High Operating Cost,1
